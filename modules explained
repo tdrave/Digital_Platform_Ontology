@@ -1,0 +1,83 @@
+Market sides
+Most businesses are operating in a ‘traditional’ market and only support the direct interaction between a company and the customer. These businesses only favour from direct network effects without enabling interactions between their customers (Filistrucchi et al., 2014). A digital platform, on the other hand, enables interactions between the customers (i.e., the platform users for which the market also favours indirect network effects).
+
+One-sided
+In case the platform users cannot be classified into types that have different interests in the service offering (e.g., as distinct groups of providers and consumers), the platform operates in a one-sided market and is defined as a one-sided platform (Filistrucchi et al., 2014). Our taxonomic structure only allows users to affiliate to a one-sided platform by registration.
+
+A one-sided platform is a digital platform (which is a service offering) towards one community of target users.
+A user is bound to the platform via a user affiliation agreement by registration and/or subscription.
+
+Multi-sided
+A Multi-Sided (MS) platform is a digital platform operating in a MS market. Due to the large amount of research in this area, and because of our focus on platform functionalities to aid in future platform software design, we leave the economic and regulatory requirements stated by Rochet and Tirole (2001) and Hagiu (2018) and others out of scope and focus on the enabling of interactions between the users of different sides. Note that companies such as Spotify and Netflix, although clearly operating in a MS market (linking content creators and content consumers to each other for a subscription fee), are not considered platform companies, as they do not offer software-enabled interactions (req 7) between the users of different sides. As stated by Hagiu and Wright (2015), users of each side need to be affiliated with the market. By ‘affiliation’, it is meant that users make a platform-specific investment to be able to interact with each other directly (Sanchez-Cartas and Leon, 2019). But how to define these platform-specific investments? Is someone searching an apartment in Airbnb before registration a user? We narrow the affiliation definition of (Sanchez-Cartas and Leon, 2019) for MS platforms conforming to our taxonomic structure and include, besides the affiliation registration, also the specialized affiliations of MS platforms named transaction and investment. All affiliations will be further explained in next sub-section.
+
+A MS platform is a digital platform (which is a service offering) towards multiple sides of users.
+Users of both sides are bound to the platform via a user affiliation agreement. This affiliation can be registration, subscription, transaction and/or  investment.
+The software enabling the MS platform offering allows for interactions between the users of least two sides.
+
+User Affiliation
+Digital platforms can be active in a non-transactional (e.g., Tinder, YouTube) and transactional (e.g., Airbnb, Amazon, Deliveroo) market, allowing different kinds of interactions between the sides. Membership externalities, which are present for both transactional and non-transactional MS platforms, arise from joining the platform (Filistrucchi et al., 2014).
+
+Registration
+In previous literature, there is not a lot of information about the registration on a MS platform. (Ehikioya, 2018) mentions a user needs to login before being allowed to reach the start-up screen. (J. Rochet and Tirole, 2001) mention the possibility to demand a subscription fee. (Remane et al., 2016) found out that all carsharing platforms require upfront registration of all users. For many MS platforms user registration is without a charge to lower the barrier for first time users while making profits by charging the transactions between the users (J.-C. Rochet and Tirole, 2006). But what are clear requirements of registration? Based on our sample, we defined a user affiliation as a registration when a targeted user needs to provide personal information to become a user, which is also the case when a user registers via a social media login button. During the registration, the user agrees to the user agreement of the digital platform. After the registration, the user is allowed to engage in certain actions (e.g., book accommodation on Airbnb, find a match on Tinder). Our sample also includes platforms where the registration of certain users is not fully automated and need manual check(s) applied by the platform company. These manual checks are typically for B2C and B2B platforms such as Amazon where the seller has to comply to certain conditions and where the registration process is not fully automated.
+
+A registration is a way for a user to affiliate to the platform
+During the registration action, the user submits personal data
+
+Transaction
+An affiliation by transaction can involve the transfer of a tangible product (e.g., bag on O My Bag), an intangible product (e.g., a ticket on TicketSwap), providing a service (e.g., teaching on Preply), a financial investment (e.g., crowdfunding on Kickstarter) or a combination of these (e.g., meal delivery on Uber Eats) (Täuscher and Laudien, 2018). Based on our sample we can make a distinction between four different user roles, but for some transactional platforms these user roles can overlap or can be non-existent and taken care of by the platform software or company. First, as defined in the previous section, you have the side with users creating the main digital content. Second, a side of users creating the ‘offering on the platform’ by filling the offering description (e.g., the accommodation description for Airbnb) and setting the price. Third, the customer side initiating the transaction and fourth the side of platform providers accepting the transaction.
+
+A transaction is a way for users to affiliate to the platform
+A user can create an offering by filling in an offering description
+The created ‘offering on the platform’ is offered by the platform company together with the offering creator to a targeted customer community.
+A platform consumer initiates the transaction, becoming a customer. This transaction can be accepted by the offering creator, becoming the provider. The customer and provider belong to a different side of users.
+After the transaction is initiated, a delivery that at least partly fulfils the transaction can be received by the platform customer
+
+Investment
+Following P. C. Evans and Gawer (2016), an “investment platform consists of companies that have developed a platform portfolio strategy and act as a holding company, active platform investor or both” (P. C. Evans and Gawer, 2016, p. 9). This is better explained in the definition of a crowdfunding platform by Haas et al. (2014) who combined the theory of two-sided markets with financial intermediation. Financial intermediation theory builds on models of resource allocation between capital- seeking and capital-giving agents by a market-making mechanism. The intermediary provides certain functionalities and performs as electronic matching market in order to overcome information asymmetries and to minimize transaction costs.
+
+A transaction can include an investment.
+This investment bounds a resource claim from a capital-giving agent towards a capital-seeking agent
+This investment bounds a future reimbursement commitment from the capital-seeking agent towards the capital-given agent
+
+Centralisation
+There are two fundamental pools of offering allocation models. A model of decentralized list-based offerings a certain user can choose from, and a model of centralized offerings automatically matched to a certain user by the software. But in reality, most digital platforms are on a continuum between both models. A sharing platform is decentralized and offers a simple list-based solution as the basic matching mechanism. Platform customers can choose themselves with which other users to interact by performing a search through the content. Platform customers can specify the demanded characteristics of the requested resource (e.g., rental interval). After, the platform software queries its offer database and presents the consumer an individual list of suited matches to choose from. This way, a decentralized model exercises little control for exchanges beyond matchmaking but instead leverages the resources and innovation of its population of users (Sutherland and Jarrahi, 2018).
+
+Decentralised
+A decentralized digital platform offers a simple list-based solution as the basic matching mechanism. Platform customers can choose themselves with which other users to interact by performing a search through the content. Platform customers can specify the demanded characteristics of the requested resource (e.g., rental interval). After, the platform software queries its offer database and presents the consumer an individual list of suited matches to choose from. This way, a decentralized model exercises little control for exchanges beyond matchmaking but instead leverages the resources and innovation of its population of users (Sutherland and Jarrahi, 2018). When exploring the decentralized platforms in our sample including Craigslist for product renting/sales and services and Airbnb for accommodation rental, we noticed that decentralized offerings are called ‘listings’.
+
+An offering on a decentralized platform is called a listing
+A targeted decentralized customer can perform a search through the listing descriptions
+This listing search can result in the creation of a transaction by that customer.
+
+Centralised
+A centralized digital platform offers matching based on optimization procedures of supply (offers) and demand (customer requests). This way, a customer doesn’t need to scroll through the list of suited offers for the final selection but can, for instance, directly navigate to the nearest vehicle of a car sharing provider. This way, the centralized model of digital platforms creates value by providing access to a centralized pool of resources (Acquier et al., 2019). It typically leverages comprehensive automation in order to optimize the convenience, speed, and seamlessness of digital interactions. The centralized platform has a strong presence and can influence the interactions between participants by assigning matches and potentially use dynamic and time-related pricing (Sutherland and Jarrahi, 2018). A disadvantage of a decentralized platform is that some users may not be satisfied by the optimization result and can decline the match later on (Boysen, Briskorn and Schwerdfeger, 2019). Examples of centralized platforms are Uber, matching drivers and customers, and Mechanical Turk, matching employers and employees.
+
+During the creation of a transaction, the platform software intermediates the matching of customer and offering.
+
+Participation
+P2P
+A P2P platform does not necessarily offer transactions, but intermediates in the interaction between its users as equal participants, also called prosumers alternating in their role as producer and consumer co-creating the value proposition (Ritter and Schanz, 2019). Peer users can be persons, but also micro-entrepreneurs (Bardhi and Eckhardt, 2012).  Based on our sample, we also state that for a platform to be P2P, the time and the cost for all peer users to be affiliated to the platform should be near zero by fully automating affiliation actions.
+
+Peer users can easily alternate as producer and consumer and thus perform the same actions
+Peer users can automatically affiliate to the platform
+
+C2C
+In aC2C market both the customer and the provider are persons
+
+Offering orientation
+Based on (Täuscher and Laudien, 2018), an offer can involve a product and/or a service. However, the difference of products and services is hard to make (Jacob and Ulaga, 2008). (Bardhi and Eckhardt, 2012) makes a distinction between temporary access and transfer of ownership, but also this is a simplification, as there is a continuum scale of product-oriented and result-oriented offerings (Ritter and Schanz, 2019). Product-oriented offerings are geared towards sales of products, while for result-oriented offerings the provider is selling a result or competence, offering a mix of services. An offering can be anywhere on this continuum, and the relevance of the product as a core component decreases as the offering gets closer to the result-oriented side. In the middle of this continuum are the user-oriented offerings consisting of product leasing, renting, sharing and pooling (Tukker, 2004). Based on our sample, it is easy to distinguish the offering orientation. If the desired delivery involves the transfer of a good, it is a product-oriented offering. If the desired delivery involves the action of a deliverer, it’s a result-oriented offering. If the desired delivery involves both, the offering is user-oriented.
+
+The delivery of a product-oriented offering involves at least the delivery of a product
+The delivery of a result-oriented offering involves at least one provider and is called a service delivery
+The delivery of a user-oriented offering is both a result-oriented and product-oriented delivery
+
+Immediate access-based
+By comparing P2P car sharing platforms, (Andersson et al., 2013) concluded that some platforms including Uber rely on an immediate temporal pattern. This refers to a one-off service sharing scenario characterized by a shortage of time between advertising, matching and actual delivery. We consider this immediate pattern equal tothe access economydescribed by Gobble(2017) as offering customers access to a service where and when the customer needs it, and this can be straight away. The access economy doesn’t only incorporate digital platforms, also free-floating transport rental platforms (e.g., Lime, Bolt, Cambio) offer self-owned physical goods for temporary access and rely on the immediate temporal pattern.
+
+After the transaction, a customer expects, and claims immediate access to the service.
+After the transaction, the provider is committed to provide the access to the service immediately.
+
+Under-utilisation
+The under-utilization of products comes into existence when there is excess capacity, giving the offering creator an opportunity to lend out or rent out his own goods to potential customers. Excess capacity of a product is present when the owner does not consume the product all the time. A majority of consumer goods can be understood as having excess capacity, including houses, cars, boats, houses, clothing, books, toys, appliances, tools, furniture, computers and others (Frenken and Schor, 2017). When we compare the ride-hailing app Uber and the carpooling app BlaBlaCar into account, the difference is clear-cut. In the case of Uber, the consumer creates new capacity by ordering a car to drive the passenger from A to B. Without the order, the trip wouldn’t have happened in the first place. By contrast, in the case of BlaBlaCar, the consumer occupies a seat that would otherwise not have been used as the driver had planned to go from A to B anyway. To simplify we suggest that a product is under-utilized when it is also used by the provider.
+
+The product involved in the delivery is also personally used by the provider.
